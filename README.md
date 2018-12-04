@@ -1,6 +1,6 @@
 # Advent of code
 
-http://adventofcode.com/
+https://adventofcode.com/
 
 - [2017](./2017)
   - [Day 1](./2017/2017-12-01.md)
@@ -19,6 +19,6 @@ http://adventofcode.com/
   - [Day 24](./2017/2017-12-24.md)
   - [Day 25](./2017/2017-12-25.md)
 - [2018](./2018)
-  - [Day 1](./2018/day1.clj)
-  - [Day 2](./2018/day2.clj)
-  - [Day 3](./2018/day3.clj)
+  - [Day 1](./2018/src/day1.clj)
+  - [Day 2](./2018/src/day2.clj)
+  - [Day 3](./2018/src/day3.clj)
